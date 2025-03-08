@@ -1,3 +1,7 @@
+# Base Ecommerce project
+The base Ecommerce project I used to start the challenge is
+RailsECommerce project on GitHub: https://github.com/Vitaee/RailsECommerce.git
+
 # Ruby on Rails E-Commerce Project
 A basic e-commerce web site built with rails framework and for front-end haml used with bootstrap, postgresql used for  the database service. 
 From beginning i created this project with this command line ( yarn & node should be installed in your system):
